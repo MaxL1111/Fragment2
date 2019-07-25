@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorOrange">#DE5413</color>
+    <color name="colorOrangeDark">#C63C1B</color>
+    <color name="colorOrangeLight">#FFCC8B</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorRed">#D70C12</color>
+    <color name="colorBique">#FFE4C4</color>
+    <color name="colorBurlyWood">#DEB887</color>
+    <color name="colorCornsilk">#FFF8DC</color>
+    <color name="colorWhite">#FFFFFF</color>
+</resources>
